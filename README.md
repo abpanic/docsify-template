@@ -2,7 +2,7 @@
 > Starter template for a Markdown-based docs site
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/abpanic/docsify-template/tags/?include_prereleases&sort=semver)
-[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [![Made with latest Docsify](https://img.shields.io/badge/docsify-v4-blue?label=docsify)](https://docsify.js.org/ "Go to Docsify website")
 [![Hosted with GH Pages](https://img.shields.io/badge/Hosted_with-GitHub_Pages-blue?logo=github&logoColor=white)](https://pages.github.com/ "Go to GitHub Pages docs")
@@ -46,7 +46,7 @@ If you want to improve the original template, then fork it and make a PR.
 - Use this project as a **base** - follow instructions to download just the necessary files to your _existing_ repo's `docs` directory
 - View the **live** demo site to see what you'll get.
 
-For more info on Docsify, see my [DocsifyJS Tutorial][]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
+For more info on Docsify, see my [DocsifyJS Tutorial](https://learn-docsify.netlify.app). That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
 [DocsifyJS Tutorial]: https://learn-docsify.netlify.app/#/
 
@@ -133,20 +133,20 @@ Go to my [DocsifyJS Tutorial - Serve locally](https://learn-docsify.netlify.app/
 
 A template using Docsify Themeable. It is a Docsify site but easier to use, it is prettier (in my opinion), and supports a theme system that is more advanced than that in Docsify.
 
-- [![MichaelCurrin - docsify-themeable-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/docsify-themeable-quickstart)
+- [![Docsify-themeable-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/abpanic/docsify-themeable-quickstart)
 
 A template for Vue-based docs site. Except it uses VuePress to render a static site (better for SEO) rather than as a Single-Page Application like Docsify.
  
-- [![MichaelCurrin - vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vuepress-quickstart)
+- [![Vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/abpanic/vuepress-quickstart)
 
 A template for a Vue-based app.
 
-- [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
+- [![Vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/abpanic/vue-quickstart)
 
 
 ## License
 
-Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
+Released under [Unlicense](/LICENSE) by [@Abhilash](https://github.com/abpanic).
 
 - You can modify and reuse this project.
 - Please link back to the original repo somewhere in your project if you use this in any way.
