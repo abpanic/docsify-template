@@ -15,9 +15,9 @@
 
 ### Serve locally
 
-To view the docs site on a local web server, follow these instructions - [Serve a docs site locally with DocsifyJS](https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8)
+To view the docs site on a local web server, follow these instructions - [Serve a docs site locally with DocsifyJS](https://gist.github.com/abpanic/1e5ef827664de555a7affe9702864287)
 
 
 ## Resources
 
-For more info on what DocsifyJS is and how to use it, see [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally).
+For more info on what DocsifyJS is and how to use it, see [DocsifyJS Tutorial](https://learn-docsify.netlify.app/#/?id=serve-a-docsify-site-locally).

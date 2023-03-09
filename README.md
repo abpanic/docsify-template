@@ -48,7 +48,7 @@ If you want to improve the original template, then fork it and make a PR.
 
 For more info on Docsify, see my [DocsifyJS Tutorial][]. That covers intro to DocsifyJS, including installation, running and configuration. If you look at the repo, that has has more content and configuration than this relatively plain template site.
 
-[DocsifyJS Tutorial]: https://michaelcurrin.github.io/docsify-js-tutorial/#/
+[DocsifyJS Tutorial]: https://learn-docsify.netlify.app/#/
 
 
 ## How to use Docsify in your projects
@@ -76,7 +76,7 @@ This will copy the contents of the docs directory from Github to the current fol
     ```
 3. Download necessary files in the template [docs](/docs) directory to your project using this two-line command. (The `-O` flag will save the files locally, keeping the original filenames.)
     ```sh
-    REPO_DOCS='https://raw.githubusercontent.com/MichaelCurrin/docsify-js-template/master/docs/'
+    REPO_DOCS='https://raw.githubusercontent.com/abpanic/docsify-template/master/docs/'
     curl $REPO_DOCS\{_coverpage.md,_sidebar.md,.nojekyll,index.html,README.md\} -O
     ```
 
@@ -91,7 +91,7 @@ Use the convenient [replace.sh](/replace.sh) script in this repo to replace the 
     - If you used the template button, you've already got it.
     - If adding content to your existing project's docs, copy script to your project **root** (not docs directory)
         ```sh
-        curl 'https://raw.githubusercontent.com/MichaelCurrin/docsify-js-template/master/replace.sh' -O
+        curl 'https://raw.githubusercontent.com/abpanic/docsify-template/master/replace.sh' -O
         chmod +x ./replace.sh
         ```
 2. Modify the `MY_` values then run this script to replace the template's value with your own.
@@ -124,9 +124,9 @@ This template still works fine as a standalone online demo of _Docsify_ that you
 
 ### Serve locally
 
-Follow this [gist](https://gist.github.com/MichaelCurrin/4c8060dcc9d8841f842eeebc7a1436d8) so you can view the docs site on a local webserver.
+Follow this [gist](https://gist.github.com/abpanic/1e5ef827664de555a7affe9702864287) so you can view the docs site on a local webserver.
 
-Go to my [DocsifyJS Tutorial - Serve locally](https://michaelcurrin.github.io/docsify-js-tutorial/#/?id=serve-a-docsify-site-locally) for more info on what DocsifyJS is and how to use it.
+Go to my [DocsifyJS Tutorial - Serve locally](https://learn-docsify.netlify.app/#/?id=serve-a-docsify-site-locally) for more info on what DocsifyJS is and how to use it.
 
 
 ## Related projects
