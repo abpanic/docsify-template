@@ -1,7 +1,7 @@
 # DocsifyJS Template 📒 🕸
 > Starter template for a Markdown-based docs site
 
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template)](https://github.com/abpanic/docsify-template/tags/?include_prereleases&sort=semver)
+[![GitHub tag](https://img.shields.io/github/tag/abpanic/docsify-js-template)](https://github.com/abpanic/docsify-template/tags/?include_prereleases&sort=semver)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
 [![Made with latest Docsify](https://img.shields.io/badge/docsify-v4-blue?label=docsify)](https://docsify.js.org/ "Go to Docsify website")
@@ -11,7 +11,7 @@
 ## Preview
 
 <div align="center">
-    <a href="https://michaelcurrin.github.io/docsify-js-template/">
+    <a href="https://abpanic.github.io/docsify-js-template/">
         <img src="/sample.png" alt="Sample screenshot" alt="Go to website" width="500" />
     </a>
 </div>
@@ -20,7 +20,7 @@
 
 <div align="center">
 
-[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://michaelcurrin.github.io/docsify-js-template/ "Go to website")
+[![View site - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-blue?style=for-the-badge)](https://abpanic.github.io/docsify-js-template/ "Go to website")
 
 Instead of forking, rather make a new repo using this template button:
 
@@ -133,15 +133,15 @@ Go to my [DocsifyJS Tutorial - Serve locally](https://learn-docsify.netlify.app/
 
 A template using Docsify Themeable. It is a Docsify site but easier to use, it is prettier (in my opinion), and supports a theme system that is more advanced than that in Docsify.
 
-- [![Docsify-themeable-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/abpanic/docsify-themeable-quickstart)
+- [![Docsify-themeable-quickstart](https://img.shields.io/static/v1?label=abpanic&message=docsify-themeable-quickstart&color=blue&logo=github)](https://github.com/abpanic/docsify-themeable-quickstart)
 
 A template for Vue-based docs site. Except it uses VuePress to render a static site (better for SEO) rather than as a Single-Page Application like Docsify.
  
-- [![Vuepress-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/abpanic/vuepress-quickstart)
+- [![Vuepress-quickstart](https://img.shields.io/static/v1?label=abpanic&message=vuepress-quickstart&color=blue&logo=github)](https://github.com/abpanic/vuepress-quickstart)
 
 A template for a Vue-based app.
 
-- [![Vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/abpanic/vue-quickstart)
+- [![Vue-quickstart](https://img.shields.io/static/v1?label=abpanic&message=vue-quickstart&color=blue&logo=github)](https://github.com/abpanic/vue-quickstart)
 
 
 ## License

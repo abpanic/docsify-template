@@ -2,7 +2,7 @@
   DocsifyJS Template  <!-- TODO: Update title -->
 </h1>
 
-[![GitHub tags](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://github.com/abpanic/docsify-template/tags/) <!-- TODO: Update username and repo name -->
+[![GitHub tags](https://img.shields.io/github/tag/abpanic/docsify-js-template.svg)](https://github.com/abpanic/docsify-template/tags/) <!-- TODO: Update username and repo name -->
 
 >  Starter template for a Markdown-based docs site <!-- TODO: Replace with your description -->
 

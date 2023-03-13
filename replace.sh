@@ -20,7 +20,7 @@ MY_GETTING_STARTED="$MY_PROJECT_SLUG"
 
 ORIGINAL_TITLE='DocsifyJS Template'
 ORIGINAL_SUBTITLE='Starter template for a markdown-based docs site'
-ORIGINAL_REPO='MichaelCurrin\/docsify-js-template'
+ORIGINAL_REPO='abpanic\/docsify-js-template'
 ORIGINAL_GETTING_STARTED='docsifyjs-template'
 
 PATTERN="s/$ORIGINAL_TITLE/$MY_TITLE/g

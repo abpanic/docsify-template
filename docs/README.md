@@ -3,7 +3,7 @@
 > Starter template for a Markdown-based docs site
 
  <!-- TODO: Update repo links and change license type if needed. -->
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/docsify-js-template.svg)](https://github.com/abpanic/docsify-template/tags/)
+[![GitHub tag](https://img.shields.io/github/tag/abpanic/docsify-js-template.svg)](https://github.com/abpanic/docsify-template/tags/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/abpanic/docsify-template/blob/master/README#license)
 
 [![Made with latest Docsify](https://img.shields.io/npm/v/docsify/latest?label=docsify)](https://docsify.js.org/)
@@ -49,8 +49,8 @@ Then follow instructions in the original GitHub repo linked below. The `README.m
 
 <div align="center">
     <a href="https://github.com/abpanic/docsify-template">
-        <img src="https://img.shields.io/static/v1?label=MichaelCurrin&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" 
-            alt="MichaelCurrin - docsify-js-template"
+        <img src="https://img.shields.io/static/v1?label=abpanic&message=docsify-js-template&color=blue&style=for-the-badge&logo=github" 
+            alt="abpanic - docsify-js-template"
             title="Go to template repo">
     </a>
 </div>
